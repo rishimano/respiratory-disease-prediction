@@ -36,5 +36,5 @@ Machine learning models such as **CNN, SVM, XGBoost, and Ensembles** were applie
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/respiratory-disease-prediction.git
+git clone https://github.com/rishimano/respiratory-disease-prediction.git
 cd respiratory-disease-prediction
